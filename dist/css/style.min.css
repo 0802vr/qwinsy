@@ -3129,6 +3129,7 @@ button.swiper-pagination-bullet {
 }
 
 .liftberg_box_left {
+  position: relative;
   padding-bottom: 20px;
 }
 
